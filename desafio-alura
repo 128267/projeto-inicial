@@ -41,4 +41,4 @@ Conheça mais sobre o comando git diff na documentação git diff
 **Desafio 7: Sincronize o Repositório Local com o Repositório Remoto no GitHub**
 Execute git push <nome-remoto> main para enviar as alterações, incluindo a resolução de conflitos, para o repositório remoto no GitHub.
 Verifique o histórico de commits no GitHub e confirme que o conflito foi resolvido corretamente.
-Parabéns! Você concluiu o desafio de trabalhar com conflitos no Git, resolvendo manualmente e sincronizando seu repositório local com o remoto. Este processo é crucial ao colaborar em projetos com outros desenvolvedores.
+
